@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gr3g0h.github.io/sitemap.xml
